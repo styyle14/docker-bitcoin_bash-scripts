@@ -1,0 +1,3 @@
+[submodule "build/docker-bitcoin-qt"]
+	path = build/docker-bitcoin-qt
+	url = https://github.com/styyle14/docker-bitcoin-qt.git
